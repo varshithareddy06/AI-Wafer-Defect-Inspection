@@ -79,3 +79,16 @@ The project uses the Carinthia SEM Defect Dataset for wafer defect inspection.
 - Support for additional wafer defect categories.
 - Deployment on edge devices or FPGA-based hardware.
 - Integration with automated semiconductor manufacturing systems.
+## Project Results
+
+### Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
+### Grad-CAM Visualization
+
+![Grad-CAM Result](gradcam_result.png)
+
+### AI Wafer Inspection Result
+
+![AI Inspection Result](ai_inspection_result.png)
